@@ -86,6 +86,8 @@ Two approved examples:
 > We review your bill, find charges like these, get them removed, and lower your rate
 > without changing your service.
 
+Or, where the post is about a charge the customer did not know was there:
+
 > We review your bill, tell you what you are paying for and not using, and get those
 > charges removed without changing your service.
 
