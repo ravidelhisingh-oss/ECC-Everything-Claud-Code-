@@ -94,7 +94,22 @@ Or, where the post is about a charge the customer did not know was there:
 A fourth beat is the failure. So is any beat that sounds like the reader is doing the
 work.
 
-### 2.2 We are the ones who tell the customer
+### 2.2 Do not invent a mechanism to make a point sharper
+
+Learned 20 Sep, from Ravi, after a rejected line. This was written and rejected:
+
+> "An unused cable box looks exactly like a used one on the account, so every box on the
+> bill reads as active."
+
+It claims the provider's system cannot tell the difference. Nobody said that, and it is
+not true. The real point is smaller and safer: the charge continues, and nobody at the
+provider raises it. Keep the claim at "nobody notices and nobody tells you", never at
+"they cannot tell".
+
+When a line is cut for being an unverified claim about a provider, the fix is to state
+less, not to invent a mechanism that sounds more convincing.
+
+### 2.3 We are the ones who tell the customer
 
 Learned 20 Sep, from Ravi, on post 3. The interest lines should land on the fact that
 nobody else is going to point the problem out — the bill does not show it and the
