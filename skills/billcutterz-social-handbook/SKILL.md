@@ -72,12 +72,33 @@ Learned 20 Sep, from Ravi. This wording was rejected:
 It reads as four separate negotiating steps and the reader loses the thread. "Challenge
 them with your provider" in particular sounds like the reader is doing the challenging.
 
-Say what we do to the bill, in the order it happens, naming the bill as the subject:
+Say what we do to the bill, in the order it happens, naming the bill as the subject.
+
+**The rule is three beats, not one frozen sentence.** The wording adapts to the post; the
+shape does not. Three beats, in this order, nothing about method:
+
+1. We review your bill.
+2. We find or tell you what is wrong with it.
+3. We fix it — charges removed, rate lowered, service unchanged.
+
+Two approved examples:
 
 > We review your bill, find charges like these, get them removed, and lower your rate
 > without changing your service.
 
-Three beats: review, remove, lower. Nothing about how.
+> We review your bill, tell you what you are paying for and not using, and get those
+> charges removed without changing your service.
+
+A fourth beat is the failure. So is any beat that sounds like the reader is doing the
+work.
+
+### 2.2 We are the ones who tell the customer
+
+Learned 20 Sep, from Ravi, on post 3. The interest lines should land on the fact that
+nobody else is going to point the problem out — the bill does not show it and the
+provider has no reason to raise it. That makes the review itself the service, not only
+the negotiation. Where a post supports it, beat 2 of the service line says "tell you",
+because being told is what the customer is actually buying.
 
 The panel line on the picture follows the same rule. "You only reach retention by asking
 for retention" was replaced with "We know how to reach them, what to say, and when to
@@ -182,10 +203,14 @@ Because these are image posts, the picture takes the attachment slot and no prev
 is ever generated. Picture plus the domain in the text is safe. A link-only post is the
 lowest-reach format on Facebook and takes the full penalty on LinkedIn.
 
-### 4.5 The involvement line should be answerable in four words
+### 4.5 If the involvement line is a question, it is answerable in four words
 
 Comments are weighted far above likes on both platforms. "Who is your provider?" gets
 answered. "Audit your bill and report back" does not.
+
+This applies only when the line is a question. The standard involvement line, "Send us
+your bill and we do the work for you," is an instruction, and section 2 governs it.
+Section 2 wins where the two sections meet.
 
 ## 5. Figures, claims and compliance
 
