@@ -131,6 +131,19 @@ name what each figure is:
 A reader must be able to tell, without thinking, which number is their bill and which
 number is the saving.
 
+### 3.7 Name the rows like a real household
+
+Learned 20 Sep, from Ravi. A panel listing "Set-top box / Set-top box / Set-top box" is a
+spreadsheet — the reader cannot see why there are three, so the unused one carries no
+weight.
+
+Name each row the way the customer would: living room, bedroom, guest room. The guest
+room is the one everybody recognises as rarely used, so `NOT IN USE` needs no
+explanation once the room is named.
+
+The same rule applies anywhere a panel lists repeated items. Give each row an identity
+the reader recognises from their own home or their own portfolio.
+
 ### 3.7 Clear beats clever, always
 
 Learned 20 Sep, after a headline of Ravi's was replaced with a cleverer one and he
