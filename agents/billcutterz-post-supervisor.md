@@ -86,6 +86,12 @@ Work through every line. A post ships only when every applicable line passes.
 22. Emails to Barry end with a sign-off wish.
 23. Tone is plain American English, short, polite, suggestions rather than instructions.
 24. One post at a time. A batch of posts in a single delivery is a FAIL.
+25. The delivery carries the post number, the **title** (the Studio short name), the
+    picture filename and the caption. A revision missing its title is a FAIL — Ravi needs
+    it for every upload.
+26. The service line is one plain sequence — review the bill, get the charges removed,
+    lower the rate — not a chain of clauses, and never a step that sounds like the reader
+    is doing the work.
 
 ## How to report
 

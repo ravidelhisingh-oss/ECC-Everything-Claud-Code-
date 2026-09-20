@@ -57,9 +57,27 @@ Rejected wording, and why:
 
 Accepted shape: ask for the bill, then say what we do with it.
 
-> Send us your bill and we do the work for you. We review it, find the charges that can
-> come off, challenge them with your provider, and lower your rate without changing your
-> service.
+> Send us your bill and we do the work for you.
+>
+> We review your bill, find charges like these, get them removed, and lower your rate
+> without changing your service.
+
+### 2.1 The service line is one plain sequence, not a chain of clauses
+
+Learned 20 Sep, from Ravi. This wording was rejected:
+
+> "We review it, find the charges that can come off, challenge them with your provider,
+> and lower your rate without changing your service."
+
+It reads as four separate negotiating steps and the reader loses the thread. "Challenge
+them with your provider" in particular sounds like the reader is doing the challenging.
+
+Say what we do to the bill, in the order it happens, naming the bill as the subject:
+
+> We review your bill, find charges like these, get them removed, and lower your rate
+> without changing your service.
+
+Three beats: review, remove, lower. Nothing about how.
 
 The panel line on the picture follows the same rule. "You only reach retention by asking
 for retention" was replaced with "We know how to reach them, what to say, and when to
@@ -203,6 +221,21 @@ on research. Flag these for him rather than asserting them.
 
 Learned 20 Sep. Seven posts in one message cannot be reviewed. Send one picture and one
 caption, wait for the verdict, apply changes, then move to the next.
+
+### 6.2 Every delivery carries the post title
+
+Learned 20 Sep, from Ravi. A revision was sent without its title and he had to ask for it
+again. He needs the title for the Studio short name on every upload.
+
+Every post, and every revision of a post, is delivered with:
+
+- the post number ("Post 3 of 7")
+- the **title** — the Studio short name, e.g. `Equipment rental`
+- the picture filename
+- the caption, laid out as it will post
+
+A revision is not a fragment. Send the whole post again, title included, even when only
+one line changed.
 
 ### 6.2 Apply a settled change to every card at once
 
