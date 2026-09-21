@@ -189,6 +189,29 @@ pushed back. Avoiding repetition across cards is our problem to solve; it is nev
 reason to make a headline harder to understand. When Ravi or Barry has written a line,
 it stands as written.
 
+## 3.8 A post is not always one picture
+
+Learned 21 Sep, from Ravi. The approval tool has to outlive the current batch, so it
+carries every shape the two platforms support:
+
+| Kind | What Barry sees |
+|---|---|
+| Picture | One square image. |
+| Carousel | Up to ten, with arrows, dots and a 1 / 10 counter he clicks through. |
+| Video | The still frame with a play button. Nothing loads until he presses play. |
+| Shared link | The preview card, with host, headline and description. |
+| Words only | No frame at all. |
+
+Two limits worth knowing, because they shape what we can promise:
+
+- Netlify caps a function at **6 MB** on the request and on the response. Pictures are
+  capped at 5 MB after shrinking. A real video cannot be served through our function at
+  all, so video lives on a link — YouTube, Vimeo, or a direct .mp4 — and we hold only the
+  still frame.
+- Because video never sits on our own storage, there is nothing to purge after approval.
+  Images are small. The tool does not need a clean-up routine, and adding one would be
+  complexity for its own sake.
+
 ## 4. The caption
 
 ### 4.1 One sentence per line, blank line between
