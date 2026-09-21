@@ -50,6 +50,9 @@ Work through every line. A post ships only when every applicable line passes.
    name the bad charges from a provider name alone is a FAIL — that needs the bill.
 5. Is it answerable in about four words? A question nobody can answer quickly gets no
    comments.
+5a. Does the ask sound timid? "One bill", "just", "even one", "give us a try", or any ask
+   for a sample to prove ourselves is a FAIL. The ask is plural, direct, and says what the
+   reader gets back.
 
 ### The picture
 

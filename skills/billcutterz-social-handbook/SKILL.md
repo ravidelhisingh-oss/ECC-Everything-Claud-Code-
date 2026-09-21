@@ -109,6 +109,27 @@ provider raises it. Keep the claim at "nobody notices and nobody tells you", nev
 When a line is cut for being an unverified claim about a provider, the fix is to state
 less, not to invent a mechanism that sounds more convincing.
 
+### 2.3 Ask boldly. Never sound like we are asking for a chance
+
+Barry's direction, restated by Ravi on 21 Sep: do not write timidly. BillCutterz is a
+service people are lucky to find, not a business that has to earn a trial.
+
+Rejected wording, and why:
+
+- "Send us **one bill from one property** and we do the work for you." Asking for a single
+  sample reads as begging for a chance to prove ourselves.
+- "Send us **one bill** and we do the work for you." Same fault, smaller.
+- Anything with "just", "only", "even one", "give us a try", "let us show you".
+
+The ask is plural, direct, and promises what they get back:
+
+> Send us your bills and we will tell you exactly what your portfolio should be paying.
+
+> Send us your bill and we will tell you what it should cost.
+
+The test: read the line back and ask whether it sounds like a company confident in its
+own service, or a company hoping to be given a go. If it is the second one, rewrite it.
+
 ### 2.3 We are the ones who tell the customer
 
 Learned 20 Sep, from Ravi, on post 3. The interest lines should land on the fact that
