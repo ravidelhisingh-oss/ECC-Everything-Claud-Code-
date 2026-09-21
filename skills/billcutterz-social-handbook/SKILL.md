@@ -125,6 +125,8 @@ The ask is plural, direct, and promises what they get back:
 
 > Send us your bills and we will tell you exactly what your portfolio should be paying.
 
+Or, for a household rather than a portfolio:
+
 > Send us your bill and we will tell you what it should cost.
 
 The test: read the line back and ask whether it sounds like a company confident in its
