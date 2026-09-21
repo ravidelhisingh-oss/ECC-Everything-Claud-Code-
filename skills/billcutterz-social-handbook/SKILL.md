@@ -62,37 +62,39 @@ Accepted shape: ask for the bill, then say what we do with it.
 > We review your bill, find charges like these, get them removed, and lower your rate
 > without changing your service.
 
-### 2.1 The service line is one plain sequence, not a chain of clauses
+### 2.1 The service line is real action and a real result
 
-Learned 20 Sep, from Ravi. This wording was rejected:
+Corrected 21 Sep by Ravi, after the wrong business had reached every post in the set.
 
-> "We review it, find the charges that can come off, challenge them with your provider,
-> and lower your rate without changing your service."
+**BillCutterz does not estimate savings.** We do not review a bill and tell a customer
+what it ought to cost. We take the bill to their provider, negotiate it ourselves, and
+come back with the saving already won. Copy that promises an assessment is describing a
+different company.
 
-It reads as four separate negotiating steps and the reader loses the thread. "Challenge
-them with your provider" in particular sounds like the reader is doing the challenging.
+Rejected wording, and why:
 
-Say what we do to the bill, in the order it happens, naming the bill as the subject.
+- "We will tell you exactly what your portfolio should be paying." That is an estimate,
+  and an estimate is not what we sell.
+- "We review your bill, tell you what can come off it, and get those charges removed."
+  Beat 2 hands the customer an assessment before anything has happened.
+- "Send us your bill and we will tell you what it should cost." Same fault, in the ask.
 
-**The rule is three beats, not one frozen sentence.** The wording adapts to the post; the
-shape does not. Three beats, in this order, nothing about method:
+The shape is three beats, and each one is something we actually do:
 
-1. We review your bill.
-2. We find or tell you what is wrong with it.
-3. We fix it — charges removed, rate lowered, service unchanged.
+1. We take the bill to the provider.
+2. We negotiate it down ourselves.
+3. We come back with the result.
 
-Two approved examples:
+> We call your provider, negotiate the rate down ourselves, and come back to you with
+> what we saved.
 
-> We review your bill, find charges like these, get them removed, and lower your rate
-> without changing your service.
+Or, for a portfolio rather than a household:
 
-Or, where the post is about a charge the customer did not know was there:
-
-> We review your bill, tell you what you are paying for and not using, and get those
-> charges removed without changing your service.
+> We take every bill to your providers, negotiate them down unit by unit, and come back
+> to you with the savings in writing.
 
 A fourth beat is the failure. So is any beat that sounds like the reader is doing the
-work.
+work, or like we are guessing at a number rather than winning one.
 
 ### 2.2 Do not invent a mechanism to make a point sharper
 
@@ -132,17 +134,12 @@ Or, for a household rather than a portfolio:
 The test: read the line back and ask whether it sounds like a company confident in its
 own service, or a company hoping to be given a go. If it is the second one, rewrite it.
 
-### 2.3 We are the ones who tell the customer
+### 2.4 What we hand back is a result, not an opinion
 
-Learned 20 Sep, from Ravi, on post 3. The interest lines should land on the fact that
-nobody else is going to point the problem out — the bill does not show it and the
-provider has no reason to raise it. That makes the review itself the service, not only
-the negotiation. Where a post supports it, beat 2 of the service line says "tell you",
-because being told is what the customer is actually buying.
-
-The panel line on the picture follows the same rule. "You only reach retention by asking
-for retention" was replaced with "We know how to reach them, what to say, and when to
-say it."
+Learned 21 Sep, correcting an earlier version of this rule which said "the telling is the
+service". It is not. Nobody else points out what is sitting on a customer's bill, which is
+true and worth saying — but what BillCutterz hands back is a rate that has already been
+negotiated. Where a post says we come back to the customer, we come back with a result.
 
 ## 3. The picture
 
@@ -212,7 +209,7 @@ pushed back. Avoiding repetition across cards is our problem to solve; it is nev
 reason to make a headline harder to understand. When Ravi or Barry has written a line,
 it stands as written.
 
-## 3.8 A post is not always one picture
+### 3.8 A post is not always one picture
 
 Learned 21 Sep, from Ravi. The approval tool has to outlive the current batch, so it
 carries every shape the two platforms support:
