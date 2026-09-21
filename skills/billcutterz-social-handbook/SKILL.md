@@ -287,7 +287,19 @@ Fox Business News, Men's Health and "with Diane Sawyer" came from a web search, 
 unconfirmed, and do not appear in Barry's own approved LinkedIn Overview. They stay off
 every card until he says otherwise.
 
-### 5.5 Claims about other companies
+### 5.5 Our own prices and terms come from Barry, never from research
+
+Learned 21 Sep. Section 5.6 governs claims about other companies; nothing covered claims
+about BillCutterz itself, and that gap nearly let a pricing line go out sourced from a
+web search.
+
+"You pay nothing unless we save you money" is true as far as the public write-ups go, and
+the same write-ups say the fee is half of the savings. A reader meeting us for the first
+time can hear "no fee" as "free". Any line about what a customer pays, when they pay it,
+or what we take, is confirmed by Barry before it is published. Research is not a source
+for our own terms.
+
+### 5.6 Claims about other companies
 
 A line like "customer service and billing are not allowed to change your rate" is a
 factual claim about third parties. It must rest on Barry's experience on the phones, not

@@ -78,6 +78,9 @@ Work through every line. A post ships only when every applicable line passes.
 19. Media mentions limited to CNBC Select, ABC World News Tonight, and BBB A+.
 20. Any factual claim about how another company operates is flagged for Barry to confirm,
     not asserted.
+20a. Any claim about BillCutterz's own prices, fees or terms is flagged for Barry. Research
+    is not a source for our own terms, and "no fee unless we save you" must never be able
+    to read as "free".
 
 ### Addresses, tone, delivery
 
