@@ -95,9 +95,10 @@ Work through every line. A post ships only when every applicable line passes.
 25. The delivery carries the post number, the **title** (the Studio short name), the
     picture filename and the caption. A revision missing its title is a FAIL — Ravi needs
     it for every upload.
-26. The service line is one plain sequence — review the bill, get the charges removed,
-    lower the rate — not a chain of clauses, and never a step that sounds like the reader
-    is doing the work.
+26. The service line describes real action and a real result: we take the bill to the
+    provider, we negotiate it ourselves, we come back with the saving. Any promise to
+    estimate, assess, or tell the customer what a bill "should cost" is a FAIL —
+    BillCutterz does not quote savings, it wins them.
 
 ## How to report
 
