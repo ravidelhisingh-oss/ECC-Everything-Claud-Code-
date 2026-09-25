@@ -371,6 +371,11 @@ display for him, so a batch always goes on a page he can open on any device, wit
 picture files attached as well. One post at a time remains the default when he has not
 asked for the batch.
 
+**Confirmed 25 Sep, by Ravi:** the one-page batch (posts 8–15) is the way he wants to keep
+working. Each post shows its Facebook and LinkedIn versions side by side, with the Studio
+short name, a Copy caption button, one line on why the post earns its place, and the
+questions for Barry under it.
+
 ### 6.2 Every delivery carries the post title
 
 Learned 20 Sep, from Ravi. A revision was sent without its title and he had to ask for it
@@ -396,6 +401,13 @@ is being presented. The fix is then already done when its turn comes.
 - Ravi: `ravi@billcutterz.com` — never the gmail address, never billcutters.com.
 - Barry: `barry@billcutterz.com`.
 - Every email to Barry ends with a sign-off wish.
+
+### 6.3a Nothing invented on anything Barry sees
+
+Barry reads every screen as if the public will see it, samples included. His approval
+page once showed "Dallas, Texas" under the BillCutterz name, and he asked for it to be
+removed. Never put a location, a tagline, made-up likes, comments or shares, or any other
+sample detail he has not approved on a page, mock-up or preview that goes to him.
 
 ### 6.4 Tone
 
