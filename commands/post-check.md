@@ -5,7 +5,14 @@ argument-hint: [post number, file path, or blank for the post in progress]
 
 # Post Check
 
-Run the `billcutterz-post-supervisor` agent over the work in progress before it is sent.
+Run two checks over the work in progress before it is sent, in this order:
+
+1. `billcutterz-marketing-manager` — will this bring in customers, and would Barry sign
+   it? Must return `VERDICT: APPROVE`.
+2. `billcutterz-post-supervisor` — does it follow every handbook rule? Must return
+   `VERDICT: PASS`.
+
+Social posts need both. Emails and attachments to Barry need the supervisor only.
 
 ## When to run
 
@@ -17,10 +24,12 @@ Run the `billcutterz-post-supervisor` agent over the work in progress before it 
 
 1. Load `skills/billcutterz-social-handbook/SKILL.md`.
 2. Hand the supervisor the caption text, the rendered picture path, and any attachment.
-3. The supervisor returns `VERDICT: PASS` or `VERDICT: FAIL` with the failing rule
+3. For a post, the manager goes first and returns `APPROVE` or `REVISE` with a score and
+   exact fixes. On REVISE, fix every MUST FIX line and run the manager again.
+4. The supervisor then returns `VERDICT: PASS` or `VERDICT: FAIL` with the failing rule
    numbers and the exact replacement wording.
-4. On FAIL, fix every named line and run the check again. Do not send on a FAIL.
-5. On PASS, send, and pass the FLAGS FOR BARRY list along with it.
+5. On FAIL, fix every named line and run the check again. Do not send on a FAIL.
+6. On PASS, send, and pass both FLAGS FOR BARRY lists along with it.
 
 ## After the verdict
 

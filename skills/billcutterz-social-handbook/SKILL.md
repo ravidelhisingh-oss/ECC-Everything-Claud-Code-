@@ -10,7 +10,8 @@ Every rule below was learned from a real correction by Barry Gross or Ravi Singh
 research that changed how a post is built. Nothing here is a preference. Each rule carries
 the date it was learned and why, so it is never re-litigated or quietly dropped.
 
-Read this before building a post. Run `billcutterz-post-supervisor` before sending one.
+Read this before building a post. Run `billcutterz-marketing-manager` on every post, then
+`billcutterz-post-supervisor`, before sending one.
 
 ## 1. Barry's two copywriting rules
 
@@ -59,8 +60,8 @@ Accepted shape: ask for the bill, then say what we do with it.
 
 > Send us your bill and we do the work for you.
 >
-> We review your bill, find charges like these, get them removed, and lower your rate
-> without changing your service.
+> We call your provider, negotiate the rate down ourselves, and come back to you with
+> what we saved.
 
 ### 2.1 The service line is real action and a real result
 
@@ -125,11 +126,16 @@ Rejected wording, and why:
 
 The ask is plural, direct, and promises what they get back:
 
-> Send us your bills and we will tell you exactly what your portfolio should be paying.
+> Send us your bills and we will get them lowered across the portfolio.
 
 Or, for a household rather than a portfolio:
 
-> Send us your bill and we will tell you what it should cost.
+> Send us your bill and we will get your rate brought back down.
+
+(Corrected 25 Sep. This section used to show "we will tell you exactly what your
+portfolio should be paying" and "we will tell you what it should cost" as the accepted
+wording. Section 2.1 rejects both, because BillCutterz wins savings rather than
+estimating them. The examples now match 2.1.)
 
 The test: read the line back and ask whether it sounds like a company confident in its
 own service, or a company hoping to be given a go. If it is the second one, rewrite it.
@@ -318,6 +324,25 @@ the same write-ups say the fee is half of the savings. A reader meeting us for t
 time can hear "no fee" as "free". Any line about what a customer pays, when they pay it,
 or what we take, is confirmed by Barry before it is published. Research is not a source
 for our own terms.
+
+### 5.5a What we negotiate, and what we do not
+
+Learned 14 and 17 Sep, from Ravi and Barry. AI tools keep adding electricity; Barry has
+had to correct it more than once.
+
+- **We negotiate:** cable TV, internet, cell phone, landline and office phone, home
+  security and alarm monitoring, satellite radio. For businesses, Barry's own emails add
+  waste management. This list is Barry's approved LinkedIn Overview.
+- **We do not do:** electricity, medical bills, or anything not on the list above. Never
+  name, picture or imply them — no power lines, no hospital bills, no "utilities" as a
+  catch-all.
+
+### 5.5b Borrowed statistics
+
+Found 25 Sep. "90% success rate" is BillShark's published figure. BillShark is a
+competitor. It must never appear in BillCutterz copy, and neither may any other figure
+that turns out to be another company's. When a number arrives from an AI tool, find where
+it came from before using it.
 
 ### 5.6 Claims about other companies
 
