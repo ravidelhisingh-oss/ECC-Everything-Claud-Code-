@@ -325,6 +325,13 @@ time can hear "no fee" as "free". Any line about what a customer pays, when they
 or what we take, is confirmed by Barry before it is published. Research is not a source
 for our own terms.
 
+**Approved by Barry, 24 Sep:** his clean LinkedIn Overview says, word for word, "And if we
+don't save you money, you pay BillCutterz nothing. No subscription, no monthly fee, no
+retainer, no upfront fee." That sentence, or fewer of its words, in his order, may be used
+without flagging. Anything that reorders it to lead with "no fee", rewords it, adds
+"free", or names a percentage still needs Barry. What we charge when we do save is still
+unconfirmed for posts.
+
 ### 5.5a What we negotiate, and what we do not
 
 Learned 14 and 17 Sep, from Ravi and Barry. AI tools keep adding electricity; Barry has
