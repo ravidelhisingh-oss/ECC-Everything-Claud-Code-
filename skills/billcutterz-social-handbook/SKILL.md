@@ -364,6 +364,13 @@ on research. Flag these for him rather than asserting them.
 Learned 20 Sep. Seven posts in one message cannot be reviewed. Send one picture and one
 caption, wait for the verdict, apply changes, then move to the next.
 
+**Changed 25 Sep, by Ravi:** "make all the posts in one go." When Ravi asks for a whole
+batch, deliver the batch together — on one web page with every picture and caption in
+posting order — rather than one post per message. Pictures sent into the chat did not
+display for him, so a batch always goes on a page he can open on any device, with the
+picture files attached as well. One post at a time remains the default when he has not
+asked for the batch.
+
 ### 6.2 Every delivery carries the post title
 
 Learned 20 Sep, from Ravi. A revision was sent without its title and he had to ask for it
